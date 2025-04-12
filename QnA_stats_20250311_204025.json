@@ -1,0 +1,9 @@
+{
+  "dataset_type": "QnA",
+  "total_items": 238,
+  "total_chunks": 8,
+  "processed_chunks": 8,
+  "total_duration_seconds": 106.89223027229309,
+  "items_per_second": 2.226541624154797,
+  "timestamp": "20250311_204025"
+}

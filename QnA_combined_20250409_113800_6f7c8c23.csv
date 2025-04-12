@@ -1,0 +1,245 @@
+question,answer
+What is artificial intelligence?,"Artificial intelligence refers to the capability of computational systems to perform tasks typically associated with human intelligence such as learning, reasoning, problem-solving, perception, and decision-making."
+What are some high-profile applications of AI?,"High-profile applications of AI include advanced web search engines, recommendation systems, virtual assistants, autonomous vehicles, generative and creative tools, and superhuman play and analysis in strategy games."
+What are some traditional goals of AI research?,"Traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, perception, and support for robotics."
+What is general intelligence?,General intelligence refers to the ability to complete any task performed by a human on an at least equal level.
+What are some techniques used in AI research?,"AI researchers have adapted and integrated a wide range of techniques including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics."
+What fields does AI draw upon?,"AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields."
+When was artificial intelligence founded as an academic discipline?,Artificial intelligence was founded as an academic discipline in 1956.
+What is an AI winter?,An AI winter refers to a period of disappointment and loss of funding following the initial optimism and excitement about AI.
+What led to the growth of AI after 2012?,"Deep learning outperformed previous AI techniques, leading to the growth of AI after 2012."
+What is the transformer architecture?,The transformer architecture is a type of AI technique that has accelerated the growth of AI.
+What is the AI boom?,The AI boom refers to the rapid ongoing progress in AI and the vast investment of billions of dollars in the field.
+What are some unintended consequences and harms of advanced generative AI?,Advanced generative AI has exposed several unintended consequences and harms in the present and raised concerns about the risks of AI and its long-term effects in the future.
+What are some regulatory policies being discussed to ensure the safety and benefits of AI?,Discussions are ongoing about regulatory policies to ensure the safety and benefits of AI.
+What is the general problem of AI?,The general problem of AI is to develop machines that can perform tasks typically associated with human intelligence.
+What are some fields of AI research?,"Some fields of AI research include machine learning, symbolic, deep learning, Bayesian networks, evolutionary algorithms, hybrid intelligent systems, and systems integration."
+What are some applications of AI in bioinformatics?,"AI has applications in bioinformatics, including advanced genomics and personalized medicine."
+What are some applications of AI in finance?,"AI has applications in finance, including portfolio optimization and risk management."
+What are some applications of AI in education?,"AI has applications in education, including personalized learning and intelligent tutoring systems."
+What are some applications of AI in healthcare?,"AI has applications in healthcare, including medical diagnosis and treatment planning."
+What are the subproblems in simulating or creating intelligence?,"Reasoning and problem-solving, knowledge representation, and planning and decision-making."
+What are the key traits or capabilities that researchers expect an intelligent system to display?,"Reasoning and problem-solving, knowledge representation, and planning and decision-making."
+What is the main challenge in developing algorithms for reasoning and problem-solving?,"The combinatorial explosion, which makes them exponentially slower as the problems grow."
+How do humans typically solve problems?,"Using fast intuitive judgments, rather than step-by-step deduction."
+What is an ontology in the context of AI?,A set of concepts within a domain and the relationships between those concepts.
+What is the purpose of a knowledge base in AI?,To represent knowledge in a form that can be used by a program.
+What are some of the key aspects and domains of knowledge that need to be represented in a knowledge base?,"Objects, properties, categories, relations between objects, situations, events, states, time, causes and effects, knowledge about knowledge, default reasoning, and many others."
+What is the main difficulty in knowledge representation?,The breadth of commonsense knowledge and the subsymbolic form of most commonsense knowledge.
+What is the problem of knowledge acquisition in AI?,The problem of obtaining knowledge for AI applications.
+What is an agent in the context of AI?,Anything that perceives and takes actions in the world.
+What are the goals of a rational agent?,To make its preferences happen.
+How does a decision-making agent choose an action?,By calculating the expected utility of each possible action and choosing the one with the maximum expected utility.
+What is the difference between classical planning and real-world problems in planning?,"In classical planning, the agent knows exactly what the effect of any action will be, whereas in real-world problems, the agent may not be certain about the situation or the outcome of each action."
+How do agents make decisions when their preferences are uncertain?,By making a probabilistic guess and then reassessing the situation.
+What is the purpose of a utility in decision-making?,To measure how much the agent prefers a particular situation.
+What is the expected utility in decision-making?,"The utility of all possible outcomes of an action, weighted by the probability that the outcome will occur."
+What is the role of inverse reinforcement learning in learning agents' preferences?,"To learn agents' preferences, especially when there are other agents or humans involved."
+What are some examples of areas where knowledge representation is used?,"Content-based indexing and retrieval, scene interpretation, clinical decision support, knowledge discovery, and other areas."
+What is the relationship between knowledge representation and knowledge engineering?,They allow AI programs to answer questions intelligently and make deductions about real-world facts.
+What is reinforcement learning?,"In reinforcement learning, the agent is rewarded for good responses and punished for bad ones. The agent learns to choose responses that are classified as good."
+What is the main difference between supervised and unsupervised learning?,"Supervised learning requires labeling the training data with the expected answers, whereas unsupervised learning analyzes a stream of data and finds patterns and makes predictions without any other guidance."
+What is transfer learning?,Transfer learning is when the knowledge gained from one problem is applied to a new problem.
+What is deep learning?,Deep learning is a type of machine learning that runs inputs through biologically inspired artificial neural networks.
+What is the goal of a Markov decision process?,The goal of a Markov decision process is to take actions and evaluate situations while being uncertain of what the outcome will be.
+What is the difference between classification and regression in supervised learning?,"Classification is where the program must learn to predict what category the input belongs in, and regression is where the program must deduce a numeric function based on numeric input."
+What is the purpose of a policy in a Markov decision process?,A policy associates a decision with each possible state.
+What is game theory used for in AI?,Game theory is used in AI programs that make decisions that involve other agents.
+What is the main challenge in natural language processing?,The main challenge in natural language processing is the common sense knowledge problem.
+What is word embedding in natural language processing?,Word embedding is representing words typically as vectors encoding their meaning.
+What is the attention mechanism in deep learning?,The attention mechanism is a deep learning architecture that uses attention to focus on specific parts of the input.
+What is the current state of language models?,Current language models are able to generate coherent text and achieve human-level scores on real-world applications.
+What is machine perception?,Machine perception is the ability to use input from sensors to deduce aspects of the world.
+What is computer vision?,Computer vision is the ability to analyze visual input.
+What is affective computing?,"Affective computing is a field that comprises systems that recognize, interpret, process, or simulate human feeling."
+What is the main goal of a policy in reinforcement learning?,The main goal of a policy in reinforcement learning is to choose responses that are classified as good.
+What is the difference between information value theory and game theory?,"Information value theory is used to weigh the value of exploratory or experimental actions, whereas game theory describes the rational behavior of multiple interacting agents."
+What is the role of the reward function in a Markov decision process?,The reward function supplies the utility of each state and the cost of each action in a Markov decision process.
+What is the purpose of a transition model in a Markov decision process?,The transition model describes the probability that a particular action will change the state in a particular way in a Markov decision process.
+What is the goal of affective computing?,to classify the effects displayed by a videotaped subject
+What is artificial general intelligence?,a machine that can solve a wide variety of problems with breadth and versatility similar to human intelligence
+What is state space search?,a search that searches through a tree of possible states to try to find a goal state
+What is adversarial search?,"a search used for gameplaying programs such as chess or Go, that searches through a tree of possible moves and countermoves looking for a winning position"
+What is gradient descent?,a type of local search that optimizes a set of numerical parameters by incrementally adjusting them to minimize a loss function
+What is evolutionary computation?,a type of local search that aims to iteratively improve a set of candidate solutions by mutating and recombining them selecting only the fittest to survive each generation
+What is propositional logic?,"a form of formal logic that operates on statements that are true or false and uses logical connectives such as and, or, and not"
+What is predicate logic?,"a form of formal logic that operates on objects, predicates, and relations and uses quantifiers such as Every X is a Y and There are some X's that are Y's"
+What is deductive reasoning in logic?,the process of proving a new statement (conclusion) from other statements that are given and assumed to be true (premises)
+What is a proof tree?,"a structured representation of a proof, in which nodes are labelled by sentences and children nodes are connected to parent nodes by inference rules"
+What is the goal of problemsolving in logic?,to search for a proof tree whose root node is labelled by a solution of the problem and whose leaf nodes are labelled by premises or axioms
+What is Horn clauses?,a type of logic that allows problemsolving search to be performed by reasoning forwards from the premises or backwards from the problem
+What is swarm intelligence?,a type of distributed search process that can coordinate via algorithms such as particle swarm optimization and ant colony optimization
+What is particle swarm optimization?,a swarm algorithm inspired by bird flocking
+What is ant colony optimization?,a swarm algorithm inspired by ant trails
+What is the goal of artificial intelligence?,to solve a wide variety of problems with breadth and versatility similar to human intelligence
+What is the main difference between state space search and local search?,"state space search searches through a tree of possible states to try to find a goal state, while local search uses mathematical optimization to find a solution to a problem"
+What is the goal of formal logic?,to reason and represent knowledge
+What is the main form of search used in AI?,state space search and local search
+What is the clausal form of first-order logic resolution?,A single axiom-free rule of inference in which a problem is solved by proving a contradiction from premises that include the negation of the problem to be solved.
+Is inference in Horn clause logic and first-order logic decidable?,"No, it is undecidable and therefore intractable."
+What is fuzzy logic used for?,It can handle propositions that are vague and partially true by assigning a degree of truth between 0 and 1.
+What is non-monotonic logic used for?,"It is designed to handle default reasoning, including logic programming with negation as failure."
+What are some specialized versions of logic used for?,"They are used to describe many complex domains, such as probabilistic methods for uncertain reasoning."
+What is a Bayesian network used for?,"It is a tool that can be used for reasoning using the Bayesian inference algorithm, learning using the expectation-maximization algorithm, planning using decision networks, and perception using dynamic Bayesian networks."
+What are some examples of probabilistic algorithms used for?,"They can be used for filtering, prediction, smoothing, and finding explanations for streams of data."
+What is a classifier?,A classifier is a function that uses pattern matching to determine the closest match.
+How are classifiers fine-tuned?,They can be fine-tuned based on chosen examples using supervised learning.
+What is a decision tree?,It is the simplest and most widely used symbolic machine learning algorithm.
+What replaced the K-nearest neighbor algorithm in the 1990s?,Kernel methods such as the support vector machine (SVM) displaced knearest neighbor in the 1990s.
+What is the most widely used learner at Google?,The naive Bayes classifier is reportedly the most widely used learner at Google due in part to its scalability.
+What is an artificial neural network used for?,It is used as a classifier and can recognize patterns once trained.
+What is the structure of an artificial neural network?,"It consists of an input, at least one hidden layer of nodes, and an output, with each node applying a function."
+"What is the goal of decision theory, decision analysis, and information value theory?",They are used to analyze how an agent can make choices and plan.
+What are some examples of decision-making models?,"They include Markov decision processes, dynamic decision networks, game theory, and mechanism design."
+What is the purpose of probabilistic algorithms in perception systems?,"They help analyze processes that occur over time, such as hidden Markov models or Kalman filters."
+What is expectation-maximization clustering used for?,"It can be used to cluster data, such as the Old Faithful eruption data."
+What is a data set in the context of classifiers?,"A data set is a collection of observations, each labeled with a certain predefined class."
+What is a deep neural network?,A network is typically called a deep neural network if it has at least 2 hidden layers.
+What is the most common training technique for neural networks?,The most common training technique is the backpropagation algorithm.
+Can a neural network learn any function?,In theory a neural network can learn any function.
+What is the difference between feedforward and recurrent neural networks?,"In feedforward neural networks the signal passes in only one direction, while in recurrent neural networks the output signal is fed back into the input."
+What is the most successful network architecture for recurrent networks?,Long short term memory is the most successful network architecture for recurrent networks.
+What is a Perceptron?,Perceptrons use only a single layer of neurons.
+What is deep learning?,Deep learning uses multiple layers of neurons between the network's inputs and outputs.
+What are the applications of deep learning?,"Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, and image classification."
+Why did deep learning suddenly become successful?,"The sudden success of deep learning in 2012-2015 did not occur because of some new discovery or theoretical breakthrough, but because of two factors: the incredible increase in computer power and the availability of vast amounts of training data."
+What is GPT?,GPT are large language models LLMs that generate text based on the semantic relationships between words in sentences.
+How are GPT models trained?,"GPT models are pretrained on a large corpus of text that can be from the Internet, and then a subsequent training phase makes the model more truthful, useful, and harmless."
+What are the current models and services of GPT?,"Current models and services include Gemini, formerly Bard, ChatGPT, Grok, Claude, Copilot, and LLaMA."
+What are multimodal GPT models?,"Multimodal GPT models can process different types of data modalities, such as images, videos, sound, and text."
+What is the dominant means for training large-scale commercial and academic machine learning models?,Graphics processing units (GPUs) that were increasingly designed with AI-specific enhancements and used with specialized TensorFlow software have replaced previously used central processing unit (CPUs) as the dominant means for training large-scale commercial and academic machine learning models.
+What programming languages are used in artificial intelligence?,Specialized programming languages such as Prolog were used in artificial intelligence.
+What is the role of GPUs in machine learning?,GPUs that were increasingly designed with AI-specific enhancements and used with specialized TensorFlow software have replaced previously used central processing unit (CPUs) as the dominant means for training large-scale commercial and academic machine learning models.
+What is the purpose of pretraining GPT models?,"Pretraining GPT models consists of predicting the next token, which allows the model to accumulate knowledge about the world."
+What is the problem with current GPT models?,"Current GPT models are prone to generating falsehoods, called hallucinations."
+What is reinforcement learning from human feedback (RLHF) in GPT models?,"RLHF is a technique used to make GPT models more truthful, useful, and harmless by using human feedback."
+What is the trend observed in transistor density in integrated circuits?,"The trend is roughly doubling every 18 months, known as Moore's law."
+Who first identified the trend of transistor density doubling every 18 months?,"Gordon Moore, Intel's cofounder."
+What is the name of the trend observed in GPU improvements?,Huang's law.
+Who is credited with identifying the trend of GPU improvements?,"Jensen Huang, Nvidia's cofounder and CEO."
+What are some examples of AI and machine learning technology used in applications?,"Search engines, online advertisements, recommendation systems, autonomous vehicles, automatic language translation, facial recognition, and image labeling."
+What is the potential impact of AI in medicine and medical research?,It can increase patient care and quality of life.
+Why are medical professionals ethically compelled to use AI in medicine?,Because AI can more accurately diagnose and treat patients.
+What is the role of AI in medical research?,It is an important tool for processing and integrating big data.
+What is AlphaFold 2?,A tool that can approximate the 3D structure of a protein in hours rather than months.
+What did AI-guided drug discovery help find in 2023?,A class of antibiotics capable of killing two different types of drug-resistant bacteria.
+What did researchers use machine learning to accelerate in 2024?,The search for Parkinson's disease drug treatments.
+What is the aim of the researchers in accelerating the search for Parkinson's disease drug treatments?,To identify compounds that block the clumping or aggregation of alpha-synuclein.
+What did researchers achieve in 2024 in terms of speed and cost?,They were able to speed up the initial screening process tenfold and reduce the cost by a thousandfold.
+What is the significance of Deep Blue's victory in 1997?,It was the first computer chess-playing system to beat a reigning world chess champion.
+What did IBM's Watson defeat in 2011?,"The two greatest Jeopardy champions, Brad Rutter and Ken Jennings."
+What did AlphaGo achieve in 2016?,It won 4 out of 5 games of Go against Go champion Lee Sedol.
+What did DeepMind's AlphaStar achieve in 2019?,It achieved grandmaster level in StarCraft II.
+What did an AI agent compete in and win in 2021?,A PlayStation Gran Turismo competition against four of the world's best Gran Turismo drivers.
+"What is SIMA, a type of AI introduced by Google DeepMind in 2024?",SIMA is a type of AI capable of autonomously playing nine previously unseen openworld video games by observing screen output as well as executing short specific tasks in response to natural language instructions.
+What are some large language models used in mathematics?,"Large language models such as GPT4, Gemini, Claude, LLaMa, or Mistral are increasingly used in mathematics."
+Why do large language models sometimes produce wrong answers?,They sometimes produce wrong answers in the form of hallucinations.
+How can the performance of language models be improved?,One technique involves training the models to produce correct reasoning steps rather than just the correct result.
+"What is Qwen2Math, a model developed by the Alibaba Group?",Qwen2Math is a version of the Qwen models that achieved state-of-the-art performance on several mathematical benchmarks.
+"What is rStarMath, a technique proposed by Microsoft?","rStarMath is a technique that leverages Monte Carlo tree search and step-by-step reasoning, enabling a relatively small language model like Qwen7B to solve mathematical problems."
+What are some dedicated models for mathematical problem solving?,"Dedicated models for mathematical problem solving with higher precision for the outcome, including proof of theorems, have been developed, such as AlphaTensor, AlphaGeometry, and AlphaProof."
+"What is Llemma, a model developed by EleutherAI?",Llemma is a model developed by EleutherAI.
+"What is Julius, a model mentioned in the text?",Julius is a model mentioned in the text.
+"What is topological deep learning, and how is it used?",Topological deep learning integrates various topological approaches.
+What are some applications of AI in finance?,"AI tools are being deployed in finance, from retail online banking to investment advice and insurance."
+What is the concern about the deployment of AI in finance?,"The deployment of AI tools may further automate things, destroying tens of thousands of jobs in banking, financial planning, and pension advice."
+What are some military applications of AI?,"Various countries are deploying AI military applications, enhancing command and control, communications, sensors integration, and interoperability."
+What are some research targets in AI military applications?,"Research is targeting intelligence collection and analysis, logistics, cyber operations, information operations, and semiautonomous and autonomous vehicles."
+What are some examples of AI military operations?,"AI has been used in military operations in Iraq, Syria, Israel, and Ukraine."
+What is generative AI?,"Generative AI, or GenAI, is a type of AI that can create new content."
+What are some examples of generative AI?,"Examples of generative AI include Vincent van Gogh in watercolour, created by generative AI software."
+What is the main difference between traditional AI and generative AI?,"The main difference is that traditional AI focuses on processing and analyzing data, whereas generative AI focuses on creating new content."
+What are some potential applications of generative AI?,"Potential applications of generative AI include art, music, and writing."
+What is Generative AI?,"Generative AI is a subset of artificial intelligence that uses generative models to produce text, images, videos, or other forms of data."
+What are the applications of Generative AI?,"Generative AI has uses across a wide range of industries including software development, healthcare, finance, entertainment, customer service, sales and marketing, art, writing, fashion, and product design."
+What are some examples of chatbots?,"Some examples of chatbots include ChatGPT, Copilot, Gemini, and LLaMA."
+What are some examples of text-to-image AI generators?,"Some examples of text-to-image AI generators include Stable Diffusion, Midjourney, and DALLE."
+What are some examples of text-to-video AI generators?,Some examples of text-to-video AI generators include Sora.
+What are some companies that have developed Generative AI models?,"Companies such as OpenAI, Anthropic, Microsoft, Google, and Baidu, as well as numerous smaller firms, have developed Generative AI models."
+What are some concerns about Generative AI?,"Concerns have been raised about the potential misuse of Generative AI, such as cybercrime, the use of fake news or deepfakes to deceive or manipulate people, and the mass replacement of human jobs."
+What are some intellectual property law concerns around Generative AI?,Intellectual property law concerns exist around Generative models that are trained on and emulate copyrighted works of art.
+What are AI agents?,"AI agents are software entities designed to perceive their environment, make decisions, and take actions autonomously to achieve specific goals."
+What are some applications of AI agents?,"AI agents are used in various applications including virtual assistants, chatbots, autonomous vehicles, gameplaying systems, and industrial robotics."
+How do AI agents operate?,"AI agents operate within the constraints of their programming, available computational resources, and hardware limitations."
+Can AI agents learn and improve?,"Yes, many AI agents incorporate learning algorithms, enabling them to improve their performance over time through experience or training."
+What are some applications of AI in sexuality?,"Applications of AI in sexuality include AI-enabled menstruation and fertility trackers, AI-integrated sex toys, AI-generated sexual education content, and AI agents that simulate sexual and romantic partners."
+What are some ethical concerns around AI in sexuality?,"AI is also used for the production of non-consensual deepfake pornography, raising significant ethical and legal concerns."
+What are some other industries-specific tasks using AI?,"There are also thousands of successful AI applications used to solve specific problems for specific industries or institutions, such as energy storage, medical diagnosis, military logistics, and supply chain management."
+What are some examples of AI applications in agriculture?,"AI has helped farmers identify areas that need irrigation, fertilization, pesticide treatments, or increasing yield, and agronomists use AI to conduct research."
+What are some AI applications in evacuation and disaster management?,"AI has been used to investigate if and how people evacuated in large-scale and small-scale evacuations, and AI can provide real-time information on real-time evacuation conditions."
+What percentage of companies reported having incorporated AI in their offerings or processes?,"According to a 2017 survey, one in five companies reported having incorporated AI in some offerings or processes."
+What are some examples of artificial intelligence applications in agriculture?,"Search and development AI has been used to predict the ripening time for crops such as tomatoes, monitor soil moisture, operate agricultural robots, conduct predictive analytics, classify livestock, and detect diseases and pests."
+What is one example of AI use in astronomy?,"AI is used in astronomy to analyze increasing amounts of available data and applications mainly for classification, regression, clustering, forecasting, generation, discovery, and the development of new scientific insights."
+What is the potential use of AI in space exploration?,"AI could be used for activities in space such as space exploration, including the analysis of data from space missions, real-time science decisions, spacecraft space debris avoidance, and more autonomous operation."
+How much was spent on AI-generated content during the 2024 Indian elections?,US$50 million was spent on authorized AI-generated content during the 2024 Indian elections.
+What are some potential benefits of AI?,AI may be able to advance science and find solutions for serious problems.
+What are some potential risks of AI?,"As the use of AI has become widespread, several unintended consequences and risks have been identified."
+What is one example of AI's potential to cause harm?,"In-production systems can sometimes not factor ethics and bias into their AI training processes, especially when the AI algorithms are inherently unexplainable in deep learning."
+What are some concerns about AI's impact on privacy?,"Machine learning algorithms require large amounts of data, and the techniques used to acquire this data have raised concerns about privacy, surveillance, and copyright."
+What is one example of AI-powered device that raises privacy concerns?,AI-powered devices and services such as virtual assistants and IoT products continuously collect personal information.
+What is the potential loss of privacy due to AI's ability to process and combine vast amounts of data?,"The loss of privacy is further exacerbated by AI's ability to process and combine vast amounts of data, potentially leading to a surveillance society."
+What is one example of AI's potential to violate the right to privacy?,"For example, in order to build speech recognition algorithms, Amazon has recorded millions of private conversations."
+What are some techniques that attempt to preserve privacy while still obtaining data?,"Data aggregation, deidentification, and differential privacy are some techniques that attempt to preserve privacy while still obtaining data."
+What is one example of generative AI being trained on unlicensed copyrighted works?,"Generative AI is often trained on unlicensed copyrighted works, including in domains such as images or computer code."
+What is the rationale for using unlicensed copyrighted works in generative AI?,The output is then used under the rationale of fair use.
+What are some factors that may affect the legality of using unlicensed copyrighted works in generative AI?,Relevant factors may include the purpose and character of the use of the copyrighted work and the effect upon the potential market for the copyrighted work.
+What is one example of how website owners can indicate they do not wish to have their content scraped?,Website owners who do not wish to have their content scraped can indicate it in a robots.txt file.
+What is the concern about AI's impact on copyright?,"Generative AI is often trained on unlicensed copyrighted works, and the output is then used under the rationale of fair use."
+What is the potential use of AI in real-time science decisions?,AI could be used for real-time science decisions in space exploration.
+What is one example of AI's potential to solve serious problems?,AI may be able to advance science and find solutions for serious problems.
+Who sued AI companies in 2023?,John Grisham and Jonathan Franzen
+What is the dominance of tech giants in the commercial AI scene?,"Big Tech companies such as Alphabet Inc, Amazon, Apple Inc, Meta Platforms, and Microsoft"
+What is the projected power consumption for data centers and AI by 2026?,"Power demand might double by 2026, with additional electric power usage equal to electricity used by the whole Japanese nation"
+What is the concern regarding the construction of data centers?,The concern is that it will be fulfilled no matter the source
+How much electrical energy does a ChatGPT search consume compared to a Google search?,10 times the electrical energy
+What do technology firms argue about the environmental impact of AI?,That AI will be eventually kinder to the environment but they need the energy now
+What is the predicted growth of US power demand by 2030?,"US power demand is likely to experience growth not seen in a generation, and forecasts that by 2030 US data centers will consume 8% of US power"
+Why do data centers need more and more electrical power?,Data centers need more and more electrical power because they might max out the electrical grid
+What is the agreement between Microsoft and Constellation Energy?,Microsoft will receive 100% of all electric power produced by the Three Mile Island nuclear power plant for 20 years
+Why is the reopening of the Three Mile Island nuclear power plant important?,It will be the first ever US recommissioning of a nuclear plant over 835 megawatts of power
+What is the estimated cost for reopening and upgrading the Three Mile Island nuclear power plant?,16 billion US
+What is the investment in reopening the Palisades nuclear power plant?,The US government and the state of Michigan are investing almost 2 billion US
+Who is the CEO of Nvidia that supports nuclear power for data centers?,JenHsun Huang
+What is the concern regarding the power grid and AI?,AI makes the power grid more efficient and intelligent
+What is the forecasted growth of nuclear power by 2030?,The growth of nuclear power will be a variety of means
+What is the report by the International Energy Agency (IEA) released in January 2024?,"Electricity 2024 Analysis and Forecast to 2026, forecasting electric power use and power consumption for artificial intelligence and cryptocurrency"
+What is the result of the Goldman Sachs Research Paper AI Data Centers and the Coming US Power Demand Surge?,US power demand is likely to experience growth not seen in a generation
+What is the prediction for US data centers' power consumption by 2030?,US data centers will consume 8% of US power
+What is the current status of the nuclear reactor on Lake Michigan?,"The nuclear reactor on Lake Michigan was closed in 2022, but it is planned to be reopened in October 2025."
+What is the new name of the Three Mile Island facility?,"The Three Mile Island facility will be renamed the Crane Clean Energy Center after Chris Crane, a nuclear proponent and former CEO of Exelon."
+Why did Taiwan suspend the approval of data centers in 2024?,Taiwan suspended the approval of data centers in 2024 due to power supply shortages.
+Does Taiwan aim to phase out nuclear power?,"Yes, Taiwan aims to phase out nuclear power by 2025."
+Why did Singapore impose a ban on data centers in 2019?,Singapore imposed a ban on data centers in 2019 due to electric power concerns.
+Did Singapore lift the ban on data centers?,"Yes, Singapore lifted the ban on data centers in 2022."
+What is Ubitus looking for in Japan?,Ubitus is looking for land in Japan near nuclear power plants for a new data center for generative AI.
+Why does Ubitus prefer nuclear power plants?,"According to Ubitus CEO Wesley Kuo, nuclear power plants are the most efficient, cheap, and stable power for AI."
+What happened to Talen Energy's application for approval?,The Federal Energy Regulatory Commission (FERC) rejected Talen Energy's application to supply some electricity from the nuclear power station Susquehanna to Amazon's data center.
+Why did FERC reject the application?,"According to FERC Chairman Willie L Phillips, it is a burden on the electricity grid as well as a significant cost-shifting concern to households and other business sectors."
+What did AI programs learn from user behavior?,"AI programs learned that users tended to choose misinformation, conspiracy theories, and extreme partisan content, and to keep them watching."
+What was the goal of recommender systems?,The goal of recommender systems was to maximize user engagement.
+What were the consequences of AI's goal?,"The consequence was that users were led into filter bubbles where they received multiple versions of the same misinformation, which convinced many users that the misinformation was true."
+What did generative AI begin to create in 2022?,"Generative AI began to create images, audio, video, and text that are indistinguishable from real photographs, recordings, films, or human writing."
+What are the risks of generative AI?,The risks include the creation of massive amounts of misinformation or propaganda.
+What did AI pioneer Geoffrey Hinton express concern about?,Geoffrey Hinton expressed concern about AI enabling authoritarian leaders to manipulate their electorates on a large scale.
+What is algorithmic bias?,Algorithmic bias refers to the problem where machine learning applications learn from biased data and may cause discrimination.
+How can bias be introduced in machine learning?,Bias can be introduced by the way training data is selected and by the way a model is deployed.
+What is sample size disparity?,"Sample size disparity refers to the problem where a dataset contains very few images of a particular group, such as black people."
+Which companies are mentioned in the text?,"Facebook, Microsoft, and Amazon"
+What is COMPAS used for?,To assess the likelihood of a defendant becoming a recidivist
+Is COMPAS a government program?,"No, it is a commercial program"
+In which country is COMPAS widely used?,The United States
+What type of courts use COMPAS?,US courts
+What is the purpose of COMPAS in US courts?,To assess the likelihood of a defendant becoming a recidivist
+Is COMPAS a widely used program?,"Yes, it is widely used by US courts"
+Who uses COMPAS in US courts?,Defendants
+What is COMPAS an assessment of?,The likelihood of a defendant becoming a recidivist
+Is COMPAS used in criminal courts?,"Yes, it is used in US courts"
+Is COMPAS a free program?,"No, it is a commercial program"
+What is the name of the program mentioned in the text?,COMPAS
+Who develops COMPAS?,Not mentioned in the text
+Is COMPAS used in all US courts?,"No, it is widely used but not used in all US courts"
+What is the goal of COMPAS in US courts?,To assess the likelihood of a defendant becoming a recidivist
+Is COMPAS a tool used by judges?,"Yes, it is a tool used by US courts"
+What is the primary purpose of COMPAS?,To assess the likelihood of a defendant becoming a recidivist
+Is COMPAS a widely used tool in US courts?,"Yes, it is widely used"
+What type of information does COMPAS assess?,The likelihood of a defendant becoming a recidivist

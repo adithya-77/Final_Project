@@ -1,0 +1,9 @@
+{
+  "dataset_type": "Conversational",
+  "total_items": 397,
+  "total_chunks": 8,
+  "processed_chunks": 8,
+  "total_duration_seconds": 125.42200827598572,
+  "items_per_second": 3.1653136914090756,
+  "timestamp": "20250311_194722"
+}

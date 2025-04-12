@@ -1,0 +1,11 @@
+fitz
+PyMuPDF
+tqdm
+concurrent-log-handler
+streamlit
+fitz
+bs4
+requests
+pandas
+python-dotenv
+groq
